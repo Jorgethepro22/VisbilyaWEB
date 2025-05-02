@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Novedades Project VIS</title>
+        <link>http://visbilya.infy.uk/index.html</link>
+        <description>Todas las recientes novedades del ambicioso Project VIS desarrollado por Visbilya</description>
+        <language>es</language>
+        <item>
+            <title>Nuevas imagenes de Project VIS salen a la luz</title>
+            <description>Visbilya comparte estas dos imagenes de sitios concretos del proyecto de Unreal Engine 5</description>
+            <guid isPermaLink = "false">noticia3</guid>
+            <link>http://visbilya.infy.uk/noticia3.html</link>
+            <enclosure length="6109810" url="http://visbilya.infy.uk/images/HighresScreenshot00048.png" type="image/png"></enclosure>
+        </item>
+        <item>
+            <title>Primera imagen IN-ENGINE de Project VIS</title>
+            <description>Ya se ha avanzado algo como para empezar a verle la forma al nuevo proyecto</description>
+            <guid isPermaLink = "false">noticia2</guid>
+            <link>http://visbilya.infy.uk/noticia2.html</link>
+            <enclosure length="4097909" url="http://visbilya.infy.uk/images/HighresScreenshot00036.png" type="image/png"></enclosure>
+        </item>
+        <item>
+            <title>Comienza un nuevo desarrollo: Project VIS</title>
+            <description>Visbilya ha comenzado a desarrollar un videojuego creado en Unreal Engine 5</description>
+            <guid isPermaLink = "false">noticia1</guid>
+            <link>http://visbilya.infy.uk/noticia1.html</link>
+            <enclosure length="5107514" url="http://visbilya.infy.uk/images/HighresScreenshot00002.png" type="image/png"></enclosure>
+        </item>
+    </channel>
+</rss>
